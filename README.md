@@ -9,7 +9,7 @@ program-spec-generator is a docs RPA , helpful for generating Program Specificat
 | File Name                           | Description                                                                             |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | **[Program Spec Master Data.xlsx]** | Master Input Data                                                                       |
-| **[Swagger\\\*-swagger-\*.yaml]**   | Each Project Swagger file                                                               |
+| **[Swagger\swagger-*.yaml]**   | Each Project Swagger file                                                               |
 | **[Logical Sequences\\\*.docx]**    | Each API Logical Sequences Section                                                      |
 | **[DB-Schema.xlsx]**                | DB Schema                                                                               |
 | **[Access Control.xlsx]**           | Each API Business Rules & Logic (Description / Pseudo Code) - Access Control Table Data |
